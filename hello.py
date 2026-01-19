@@ -1,5 +1,5 @@
 def hello_world() -> str:
-    return "Hello from Telnyx supervisor orchestration!"
+    return "Hello, world!"
 
 
 if __name__ == "__main__":
